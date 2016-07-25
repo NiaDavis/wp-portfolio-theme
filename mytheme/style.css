@@ -13,18 +13,38 @@
 */
 
 .site-navigation-inner {
-	font-size: 23px;
+	font-size: 15px;
 }
 .main-content {
-	color: green;
+	color: aliceblue;
 	background-color: black;
 }
 .site-header {
-	color: red;
+	color: black;
+}
+.row {
+	border-style: dotted;
 }
 .container {
 	background-color: white;
 }
 #masthead {
 	background-color: blue;
+	text-align: center;
+}
+.navbar-nav {
+    float: right;
+    margin: 0;
+}
+.navbar-default {
+    background-color:#e7e7e7 ;
+    border-color: #e7e7e7;
+}
+body {
+	background-image: url("http://s4.favim.com/orig/160106/adorable-aesthetic-aesthetics-black-Favim.com-3846834.jpg");
+}
+.container {
+	background-image: url("http://s4.favim.com/orig/160106/adorable-aesthetic-aesthetics-black-Favim.com-3846834.jpg");
+background-size: 100%;
+background-repeat: no-repeat;
 }
